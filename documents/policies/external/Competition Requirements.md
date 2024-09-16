@@ -215,9 +215,9 @@ The WCA Delegate must submit the following information when requesting approval 
       1. A competition must be located entirely within the region where the championship type is selected.
          1. Exception: A National Championship that only has 3x3x3 Fewest Moves and that is a part of a simultaneous competition, and has at least one location within the region.
       2. A competition may have multiple championship types.
-      3. A championship type for a region must only be assigned to one competition in a year.
-         1. Exception: Two competitions may have the same Championship status if one of the competitions has only 3x3x3 Fewest Moves as an event and the other competition does not hold the event 3x3x3 Fewest Moves. The two competitions must be held in the same calendar year.
-      4. An additional selection process is conducted by the WCA Board for organizing Continental and World Championships.
+      3. A championship type for a region should only be assigned to one competition in a year.
+         1. If a region holds more than one championship in a year, there must not be any overlapping events between the championship competitions.
+      5. An additional selection process is conducted by the WCA Board for organizing Continental and World Championships.
    2. Naming
       1. Continental and World Championships names shall be as agreed between the Organizing team and the WCA Board.
       2. If used, the word "Championship" must be singular in the competition name.
