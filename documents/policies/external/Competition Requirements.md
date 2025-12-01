@@ -143,6 +143,7 @@ The WCA Delegate must submit the following information when requesting approval 
       3. Qualification for 3x3x3 Multi-Blind must only be based on the number of points achieved in an attempt.
          1. Ties in 3x3x3 Multi-Blind qualification results may be broken by time and then number of unsolved cubes.
       4. The qualification result is based on the last day of the competition at which it was achieved.
+      5. Exception: Championship competitions may restrict regsitration to only allow competitors who represent the championship's region.
    2. If the competitor limit for a competition or an event is reached before the competition, the organization team must not approve any additional registrations for the competition or the event.
        1. If on-site registration was advertised and the competitor limit was reached when registration closed, on-site registrations must not be accepted.
    3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
